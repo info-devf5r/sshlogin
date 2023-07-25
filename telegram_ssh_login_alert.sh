@@ -3,7 +3,7 @@
 #https://github.com/indonesia08
 
 # Data user id dan token bot telegram yang kamu dapatkan dari @BotFather on Telegram
-USERID="DRVf5r_net_bot"
+USERID="6034609193"
 KEY="6034609193:AAGNok_JI8idIyxOsmxOHIpyrVRbq8_PY4U"
 
 URL="https://api.telegram.org/bot${KEY}/sendMessage"
